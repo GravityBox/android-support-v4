@@ -9,6 +9,6 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/android-support-core-utils"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/android-support-fragment"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/android-support-media-compat"/>
-	<classpathentry exported="true" kind="lib" path="classes/android-support-v4.jar" sourcepath="classes/android-support-v4-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="classes/android-support-v4.jar"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
